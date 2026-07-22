@@ -1,10 +1,7 @@
 # 🛒 MERN Shop - E-Commerce Web Application
 
-A full-stack e-commerce web application built using the MERN stack.
-
-Users can browse products, add items to cart, checkout, and track their orders. Admin users can manage products, view orders, and update order status.
-
----
+A full-stack e-commerce web application built using the MERN stack.  
+The application provides user authentication, product browsing, cart management, checkout, order tracking, and admin management features.
 
 ## 🚀 Features
 
@@ -12,23 +9,22 @@ Users can browse products, add items to cart, checkout, and track their orders. 
 - User registration and login
 - JWT-based authentication
 - Browse products
-- Search and filter products
+- Search products
 - View product details
 - Add products to cart
-- Checkout system
+- Update cart quantity
+- Checkout with shipping details
 - Place orders
 - View order history
 
 ### ⚙️ Admin Features
 - Admin dashboard
-- View total products, users, orders, revenue
+- View total products, orders, users, and revenue
 - Add new products
-- View all products
+- Manage products
 - Delete products
-- Manage customer orders
+- View all customer orders
 - Update order status
-
----
 
 ## 🛠️ Tech Stack
 
@@ -46,9 +42,7 @@ Users can browse products, add items to cart, checkout, and track their orders. 
 - REST APIs
 
 ### Database
-- MongoDB Atlas
+- MongoDB
 - Mongoose
-
----
 
 ## 📂 Project Structure
